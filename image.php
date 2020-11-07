@@ -19,7 +19,7 @@
 		<div class="inner">
 			<div class="row">
 				<div class="col-6 col-12-small">
-					<header class="major"><h1>Images</h1></header>
+					<header class="major"><h1>Images on PHP</h1></header>
 				</div>	
 				<div class="col-6 col-12-small">
 					<p>&nbsp;</p>
