@@ -39,7 +39,7 @@
 				<img src="images/blog-geekyflare.jpg" alt="GeekyFlare Blog Site" />
 			</span>
 			<header class="major">
-				<h3><a href="https://geekyflare.com/blog" target="_blank" class="link">Blog Page</a></h3>
+				<h3><a href="https://geekyflare.com/repo" target="_blank" class="link">Learning Repository</a></h3>
 				<p>Remembering all the steps to configure server's technical stuff, sharing my journey of learning all the internet and web infrastructure.</p>
 			</header>
 		</article>
