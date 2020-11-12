@@ -42,7 +42,7 @@
 							<ul class="alt">
 								<li><a href="#">Terminal Basic</a></li>
 								<li><a href="#">Wordpress-cli</a></li>
-								<li><a href="https://repo.geekyflare.com/git-fundamental" target="_blank" alt="GeekyFlare Repository">Git Fundamentals</a></li>
+								<li><a href="https://repo.geekyflare.com/Git%20Fundamentals/git-basic" target="_blank" alt="GeekyFlare Repository">Git Fundamentals</a></li>
 							</ul>
 					</div>
 					<div class="col-4 col-12-medium">
