@@ -13,6 +13,6 @@
         </ul>
         <ul class="actions stacked">
             <li><a href="https://geekyflare.com" class="button primary fit">Home</a></li>
-            <li><a href="https://geekyflare.com/repo" class="button fit">Learning Repository</a></li>
+            <li><a href="https://repo.geekyflare.com" target="_blank" class="button fit">Learning Repository</a></li>
         </ul>
     </nav>
