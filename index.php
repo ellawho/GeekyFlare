@@ -39,7 +39,7 @@
 				<img src="images/blog-geekyflare.jpg" alt="GeekyFlare Blog Site" />
 			</span>
 			<header class="major">
-				<h3><a href="https://geekyflare.com/repo" target="_blank" class="link">Learning Repository</a></h3>
+				<h3><a href="https://repo.geekyflare.com" target="_blank" class="link">Learning Repository</a></h3>
 				<p>Remembering all the steps to configure server's technical stuff, sharing my journey of learning all the internet and web infrastructure.</p>
 			</header>
 		</article>
@@ -57,7 +57,7 @@
 				<img src="images/wordpress-geekyflare.jpg" alt="GeekyFlare, Wordpress test site" />
 			</span>
 			<header class="major">
-				<h3><a href="https://hi.geekyflare.com" target="_blank" class="link">Wordpress Site</a></h3>
+				<h3><a href="https://www.geekyflare.com" target="_blank" class="link">Wordpress Site</a></h3>
 				<p>Wordpress testing site for playing with the plugins</p>
 			</header>
 		</article>
@@ -66,7 +66,7 @@
 				<img src="images/tunnel-geekyflare.jpg" alt="GeekyFlare, Argo Tunnel test site" />
 			</span>
 			<header class="major">
-				<h3><a href="#" target="_blank"  class="link">Argo Tunnel</a></h3>
+				<h3><a href="https://argo.geekyflare.com" target="_blank"  class="link">Argo Tunnel</a></h3>
 				<p>A speed feature from Cloudflare, still testing</p>
 			</header>
 		</article>
