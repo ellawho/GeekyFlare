@@ -75,7 +75,7 @@
 				<img src="images/image-geekyflare.jpg" alt="GeekyFlare Image" />
 			</span>
 			<header class="major">
-				<h3><a href="https://geekyflare.com/image" target="_blank" class="link">An Image Site</a></h3>
+				<h3><a href="image.php" target="_blank" class="link">An Image Site</a></h3>
 				<p>A test page to test all the possible ways to resize and reformat the image from cache</p>
 			</header>
 		</article>
