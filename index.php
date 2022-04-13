@@ -57,7 +57,7 @@
 				<img src="images/wordpress-geekyflare.jpg" alt="GeekyFlare, Wordpress test site" />
 			</span>
 			<header class="major">
-				<h3><a href="https://www.geekyflare.com" target="_blank" class="link">Wordpress Site</a></h3>
+				<h3><a href="https://wp.geekyflare.com" target="_blank" class="link">Wordpress Site</a></h3>
 				<p>Wordpress testing site for playing with the plugins</p>
 			</header>
 		</article>
