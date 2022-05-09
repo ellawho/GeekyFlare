@@ -48,8 +48,8 @@
 				<img src="images/load-balancer-geekyflare.jpg" alt="GeekyFlare, Load Balancer test site" />
 			</span>
 			<header class="major">
-				<h3><a href="https://lbtest.geekyflare.com" target="_blank" class="link">Load Balancer</a></h3>
-				<p>Smart Geo Steering Load Balancer, servers are located in: Japan, UK and US. Checkout the URL via GeoPeeker to reveal the difference.</p>
+				<h3><a href="https://www.wedemo.cf target="_blank" class="link">SSL for SaaS</a></h3>
+				<p>A SaaS logic testing site.</p>
 			</header>
 		</article>
 		<article>
