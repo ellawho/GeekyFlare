@@ -48,7 +48,7 @@
 				<img src="images/load-balancer-geekyflare.jpg" alt="GeekyFlare, Load Balancer test site" />
 			</span>
 			<header class="major">
-				<h3><a href="https://www.wedemo.cf target="_blank" class="link">SSL for SaaS</a></h3>
+				<h3><a href="https://www.wedemo.cf" target="_blank" class="link">SSL for SaaS</a></h3>
 				<p>A SaaS logic testing site.</p>
 			</header>
 		</article>
